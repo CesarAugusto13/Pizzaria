@@ -1,5 +1,4 @@
-
-namespace projeto.Models;
+namespace Projeto.Models;
 
 public class Cliente {
     public string NomeCliente { get; set; }

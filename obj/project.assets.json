@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\César Augusto\\.nuget\\packages\\": {}
+    "C:\\Users\\cesar_santos\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\César Augusto\\Desktop\\projeto\\projeto.csproj",
+      "projectUniqueName": "C:\\Users\\cesar_santos\\Desktop\\Pizzaria\\Projeto\\projeto.csproj",
       "projectName": "projeto",
-      "projectPath": "C:\\Users\\César Augusto\\Desktop\\projeto\\projeto.csproj",
-      "packagesPath": "C:\\Users\\César Augusto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\César Augusto\\Desktop\\projeto\\obj\\",
+      "projectPath": "C:\\Users\\cesar_santos\\Desktop\\Pizzaria\\Projeto\\projeto.csproj",
+      "packagesPath": "C:\\Users\\cesar_santos\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\cesar_santos\\Desktop\\Pizzaria\\Projeto\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\César Augusto\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\cesar_santos\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.413\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
