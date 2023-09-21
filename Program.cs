@@ -63,7 +63,7 @@ while (opcao != 0){
             cliente.NomeCliente = nomecliente;
             cliente.Telefone = telefone;
 
-            pedido.Cliente  = cliente;
+            pedido.DadosCliente  = cliente;
 
             var escolha = 0;
             do{
@@ -102,9 +102,9 @@ while (opcao != 0){
             Console.WriteLine("Nome: " + item.Nome);
             Console.WriteLine("Ingrediente: " + item.Ingredientes);
             Console.WriteLine("Preço: " + item.Preco);
-
+            }
             break;
-        }
+        
         case 0:
             Console.WriteLine("Encerrando.");
         return; 

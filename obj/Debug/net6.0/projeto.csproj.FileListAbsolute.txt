@@ -89,3 +89,10 @@ C:\Users\cesar_santos\Desktop\Pizzaria\Projeto\obj\Debug\net6.0\projeto.csproj.C
 C:\Users\cesar_santos\Desktop\Pizzaria\Projeto\obj\Debug\net6.0\projeto.dll
 C:\Users\cesar_santos\Desktop\Pizzaria\Projeto\obj\Debug\net6.0\refint\projeto.dll
 C:\Users\cesar_santos\Desktop\Pizzaria\Projeto\obj\Debug\net6.0\projeto.pdb
+C:\Users\cesar_santos\Desktop\Pizzaria\Projeto\bin\Debug\net6.0\projeto.exe
+C:\Users\cesar_santos\Desktop\Pizzaria\Projeto\bin\Debug\net6.0\projeto.deps.json
+C:\Users\cesar_santos\Desktop\Pizzaria\Projeto\bin\Debug\net6.0\projeto.runtimeconfig.json
+C:\Users\cesar_santos\Desktop\Pizzaria\Projeto\bin\Debug\net6.0\projeto.dll
+C:\Users\cesar_santos\Desktop\Pizzaria\Projeto\bin\Debug\net6.0\projeto.pdb
+C:\Users\cesar_santos\Desktop\Pizzaria\Projeto\obj\Debug\net6.0\projeto.genruntimeconfig.cache
+C:\Users\cesar_santos\Desktop\Pizzaria\Projeto\obj\Debug\net6.0\ref\projeto.dll
