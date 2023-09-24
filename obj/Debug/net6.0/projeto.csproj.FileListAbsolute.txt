@@ -1,0 +1,105 @@
+C:\Users\cesar_santos\Documents\projeto\bin\Debug\net6.0\projeto.exe
+C:\Users\cesar_santos\Documents\projeto\bin\Debug\net6.0\projeto.deps.json
+C:\Users\cesar_santos\Documents\projeto\bin\Debug\net6.0\projeto.runtimeconfig.json
+C:\Users\cesar_santos\Documents\projeto\bin\Debug\net6.0\projeto.dll
+C:\Users\cesar_santos\Documents\projeto\bin\Debug\net6.0\projeto.pdb
+C:\Users\cesar_santos\Documents\projeto\obj\Debug\net6.0\projeto.csproj.AssemblyReference.cache
+C:\Users\cesar_santos\Documents\projeto\obj\Debug\net6.0\projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesar_santos\Documents\projeto\obj\Debug\net6.0\projeto.AssemblyInfoInputs.cache
+C:\Users\cesar_santos\Documents\projeto\obj\Debug\net6.0\projeto.AssemblyInfo.cs
+C:\Users\cesar_santos\Documents\projeto\obj\Debug\net6.0\projeto.csproj.CoreCompileInputs.cache
+C:\Users\cesar_santos\Documents\projeto\obj\Debug\net6.0\projeto.dll
+C:\Users\cesar_santos\Documents\projeto\obj\Debug\net6.0\refint\projeto.dll
+C:\Users\cesar_santos\Documents\projeto\obj\Debug\net6.0\projeto.pdb
+C:\Users\cesar_santos\Documents\projeto\obj\Debug\net6.0\projeto.genruntimeconfig.cache
+C:\Users\cesar_santos\Documents\projeto\obj\Debug\net6.0\ref\projeto.dll
+c:\Users\César Augusto\Desktop\projeto\obj\Debug\net6.0\projeto.csproj.AssemblyReference.cache
+c:\Users\César Augusto\Desktop\projeto\obj\Debug\net6.0\projeto.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\César Augusto\Desktop\projeto\obj\Debug\net6.0\projeto.AssemblyInfoInputs.cache
+c:\Users\César Augusto\Desktop\projeto\obj\Debug\net6.0\projeto.AssemblyInfo.cs
+c:\Users\César Augusto\Desktop\projeto\obj\Debug\net6.0\projeto.csproj.CoreCompileInputs.cache
+c:\Users\César Augusto\Desktop\projeto\obj\Debug\net6.0\projeto.dll
+c:\Users\César Augusto\Desktop\projeto\obj\Debug\net6.0\refint\projeto.dll
+c:\Users\César Augusto\Desktop\projeto\obj\Debug\net6.0\projeto.pdb
+C:\Users\César Augusto\Desktop\projeto\bin\Debug\net6.0\projeto.exe
+C:\Users\César Augusto\Desktop\projeto\bin\Debug\net6.0\projeto.deps.json
+C:\Users\César Augusto\Desktop\projeto\bin\Debug\net6.0\projeto.runtimeconfig.json
+C:\Users\César Augusto\Desktop\projeto\bin\Debug\net6.0\projeto.dll
+C:\Users\César Augusto\Desktop\projeto\bin\Debug\net6.0\projeto.pdb
+C:\Users\César Augusto\Desktop\projeto\obj\Debug\net6.0\projeto.genruntimeconfig.cache
+C:\Users\César Augusto\Desktop\projeto\obj\Debug\net6.0\ref\projeto.dll
+C:\Users\César Augusto\Desktop\projeto - Copia\bin\Debug\net6.0\projeto.exe
+C:\Users\César Augusto\Desktop\projeto - Copia\bin\Debug\net6.0\projeto.deps.json
+C:\Users\César Augusto\Desktop\projeto - Copia\bin\Debug\net6.0\projeto.runtimeconfig.json
+C:\Users\César Augusto\Desktop\projeto - Copia\bin\Debug\net6.0\projeto.dll
+C:\Users\César Augusto\Desktop\projeto - Copia\bin\Debug\net6.0\projeto.pdb
+C:\Users\César Augusto\Desktop\projeto - Copia\obj\Debug\net6.0\projeto.csproj.AssemblyReference.cache
+C:\Users\César Augusto\Desktop\projeto - Copia\obj\Debug\net6.0\projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\César Augusto\Desktop\projeto - Copia\obj\Debug\net6.0\projeto.AssemblyInfoInputs.cache
+C:\Users\César Augusto\Desktop\projeto - Copia\obj\Debug\net6.0\projeto.AssemblyInfo.cs
+C:\Users\César Augusto\Desktop\projeto - Copia\obj\Debug\net6.0\projeto.csproj.CoreCompileInputs.cache
+C:\Users\César Augusto\Desktop\projeto - Copia\obj\Debug\net6.0\projeto.dll
+C:\Users\César Augusto\Desktop\projeto - Copia\obj\Debug\net6.0\refint\projeto.dll
+C:\Users\César Augusto\Desktop\projeto - Copia\obj\Debug\net6.0\projeto.pdb
+C:\Users\César Augusto\Desktop\projeto - Copia\obj\Debug\net6.0\projeto.genruntimeconfig.cache
+C:\Users\César Augusto\Desktop\projeto - Copia\obj\Debug\net6.0\ref\projeto.dll
+C:\Users\cesar_santos\Desktop\Projeto\obj\Debug\net6.0\projeto.csproj.AssemblyReference.cache
+C:\Users\cesar_santos\Desktop\Projeto\obj\Debug\net6.0\projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesar_santos\Desktop\Projeto\obj\Debug\net6.0\projeto.AssemblyInfoInputs.cache
+C:\Users\cesar_santos\Desktop\Projeto\obj\Debug\net6.0\projeto.AssemblyInfo.cs
+C:\Users\cesar_santos\Desktop\Projeto\obj\Debug\net6.0\projeto.csproj.CoreCompileInputs.cache
+C:\Users\cesar_santos\Desktop\Projeto\obj\Debug\net6.0\projeto.dll
+C:\Users\cesar_santos\Desktop\Projeto\obj\Debug\net6.0\refint\projeto.dll
+C:\Users\cesar_santos\Desktop\Projeto\obj\Debug\net6.0\projeto.pdb
+C:\Users\cesar_santos\Desktop\Projeto\bin\Debug\net6.0\projeto.exe
+C:\Users\cesar_santos\Desktop\Projeto\bin\Debug\net6.0\projeto.deps.json
+C:\Users\cesar_santos\Desktop\Projeto\bin\Debug\net6.0\projeto.runtimeconfig.json
+C:\Users\cesar_santos\Desktop\Projeto\bin\Debug\net6.0\projeto.dll
+C:\Users\cesar_santos\Desktop\Projeto\bin\Debug\net6.0\projeto.pdb
+C:\Users\cesar_santos\Desktop\Projeto\obj\Debug\net6.0\projeto.genruntimeconfig.cache
+C:\Users\cesar_santos\Desktop\Projeto\obj\Debug\net6.0\ref\projeto.dll
+C:\Users\yolanda_proensa\Downloads\Projeto (1)\Projeto\obj\Debug\net6.0\projeto.csproj.AssemblyReference.cache
+C:\Users\yolanda_proensa\Downloads\Projeto (1)\Projeto\obj\Debug\net6.0\projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yolanda_proensa\Downloads\Projeto (1)\Projeto\obj\Debug\net6.0\projeto.AssemblyInfoInputs.cache
+C:\Users\yolanda_proensa\Downloads\Projeto (1)\Projeto\obj\Debug\net6.0\projeto.AssemblyInfo.cs
+C:\Users\yolanda_proensa\Downloads\Projeto (1)\Projeto\obj\Debug\net6.0\projeto.csproj.CoreCompileInputs.cache
+C:\Users\yolanda_proensa\Downloads\Projeto (1)\Projeto\obj\Debug\net6.0\projeto.dll
+C:\Users\yolanda_proensa\Downloads\Projeto (1)\Projeto\obj\Debug\net6.0\refint\projeto.dll
+C:\Users\yolanda_proensa\Downloads\Projeto (1)\Projeto\obj\Debug\net6.0\projeto.pdb
+C:\Users\yolanda_proensa\Downloads\Projeto (1)\Projeto\bin\Debug\net6.0\projeto.exe
+C:\Users\yolanda_proensa\Downloads\Projeto (1)\Projeto\bin\Debug\net6.0\projeto.deps.json
+C:\Users\yolanda_proensa\Downloads\Projeto (1)\Projeto\bin\Debug\net6.0\projeto.runtimeconfig.json
+C:\Users\yolanda_proensa\Downloads\Projeto (1)\Projeto\bin\Debug\net6.0\projeto.dll
+C:\Users\yolanda_proensa\Downloads\Projeto (1)\Projeto\bin\Debug\net6.0\projeto.pdb
+C:\Users\yolanda_proensa\Downloads\Projeto (1)\Projeto\obj\Debug\net6.0\projeto.genruntimeconfig.cache
+C:\Users\yolanda_proensa\Downloads\Projeto (1)\Projeto\obj\Debug\net6.0\ref\projeto.dll
+C:\Users\cesar_santos\Desktop\Pizzaria\obj\Debug\net6.0\projeto.csproj.AssemblyReference.cache
+C:\Users\cesar_santos\Desktop\Pizzaria\obj\Debug\net6.0\projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesar_santos\Desktop\Pizzaria\obj\Debug\net6.0\projeto.AssemblyInfoInputs.cache
+C:\Users\cesar_santos\Desktop\Pizzaria\obj\Debug\net6.0\projeto.AssemblyInfo.cs
+C:\Users\cesar_santos\Desktop\Pizzaria\obj\Debug\net6.0\projeto.csproj.CoreCompileInputs.cache
+C:\Users\cesar_santos\Desktop\Pizzaria\obj\Debug\net6.0\projeto.dll
+C:\Users\cesar_santos\Desktop\Pizzaria\obj\Debug\net6.0\refint\projeto.dll
+C:\Users\cesar_santos\Desktop\Pizzaria\obj\Debug\net6.0\projeto.pdb
+C:\Users\cesar_santos\Desktop\Pizzaria\bin\Debug\net6.0\projeto.exe
+C:\Users\cesar_santos\Desktop\Pizzaria\bin\Debug\net6.0\projeto.deps.json
+C:\Users\cesar_santos\Desktop\Pizzaria\bin\Debug\net6.0\projeto.runtimeconfig.json
+C:\Users\cesar_santos\Desktop\Pizzaria\bin\Debug\net6.0\projeto.dll
+C:\Users\cesar_santos\Desktop\Pizzaria\bin\Debug\net6.0\projeto.pdb
+C:\Users\cesar_santos\Desktop\Pizzaria\obj\Debug\net6.0\projeto.genruntimeconfig.cache
+C:\Users\cesar_santos\Desktop\Pizzaria\obj\Debug\net6.0\ref\projeto.dll
+C:\Users\César Augusto\Desktop\Pizzaria\obj\Debug\net6.0\projeto.csproj.AssemblyReference.cache
+C:\Users\César Augusto\Desktop\Pizzaria\obj\Debug\net6.0\projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\César Augusto\Desktop\Pizzaria\obj\Debug\net6.0\projeto.AssemblyInfoInputs.cache
+C:\Users\César Augusto\Desktop\Pizzaria\obj\Debug\net6.0\projeto.AssemblyInfo.cs
+C:\Users\César Augusto\Desktop\Pizzaria\obj\Debug\net6.0\projeto.csproj.CoreCompileInputs.cache
+C:\Users\César Augusto\Desktop\Pizzaria\obj\Debug\net6.0\projeto.dll
+C:\Users\César Augusto\Desktop\Pizzaria\obj\Debug\net6.0\refint\projeto.dll
+C:\Users\César Augusto\Desktop\Pizzaria\obj\Debug\net6.0\projeto.pdb
+C:\Users\César Augusto\Desktop\Pizzaria\bin\Debug\net6.0\projeto.exe
+C:\Users\César Augusto\Desktop\Pizzaria\bin\Debug\net6.0\projeto.deps.json
+C:\Users\César Augusto\Desktop\Pizzaria\bin\Debug\net6.0\projeto.runtimeconfig.json
+C:\Users\César Augusto\Desktop\Pizzaria\bin\Debug\net6.0\projeto.dll
+C:\Users\César Augusto\Desktop\Pizzaria\bin\Debug\net6.0\projeto.pdb
+C:\Users\César Augusto\Desktop\Pizzaria\obj\Debug\net6.0\projeto.genruntimeconfig.cache
+C:\Users\César Augusto\Desktop\Pizzaria\obj\Debug\net6.0\ref\projeto.dll
