@@ -73,3 +73,33 @@ C:\Users\yolanda_proensa\Downloads\Projeto (1)\Projeto\bin\Debug\net6.0\projeto.
 C:\Users\yolanda_proensa\Downloads\Projeto (1)\Projeto\bin\Debug\net6.0\projeto.pdb
 C:\Users\yolanda_proensa\Downloads\Projeto (1)\Projeto\obj\Debug\net6.0\projeto.genruntimeconfig.cache
 C:\Users\yolanda_proensa\Downloads\Projeto (1)\Projeto\obj\Debug\net6.0\ref\projeto.dll
+C:\Users\cesar_santos\Desktop\Pizzaria\obj\Debug\net6.0\projeto.csproj.AssemblyReference.cache
+C:\Users\cesar_santos\Desktop\Pizzaria\obj\Debug\net6.0\projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesar_santos\Desktop\Pizzaria\obj\Debug\net6.0\projeto.AssemblyInfoInputs.cache
+C:\Users\cesar_santos\Desktop\Pizzaria\obj\Debug\net6.0\projeto.AssemblyInfo.cs
+C:\Users\cesar_santos\Desktop\Pizzaria\obj\Debug\net6.0\projeto.csproj.CoreCompileInputs.cache
+C:\Users\cesar_santos\Desktop\Pizzaria\obj\Debug\net6.0\projeto.dll
+C:\Users\cesar_santos\Desktop\Pizzaria\obj\Debug\net6.0\refint\projeto.dll
+C:\Users\cesar_santos\Desktop\Pizzaria\obj\Debug\net6.0\projeto.pdb
+C:\Users\cesar_santos\Desktop\Pizzaria\bin\Debug\net6.0\projeto.exe
+C:\Users\cesar_santos\Desktop\Pizzaria\bin\Debug\net6.0\projeto.deps.json
+C:\Users\cesar_santos\Desktop\Pizzaria\bin\Debug\net6.0\projeto.runtimeconfig.json
+C:\Users\cesar_santos\Desktop\Pizzaria\bin\Debug\net6.0\projeto.dll
+C:\Users\cesar_santos\Desktop\Pizzaria\bin\Debug\net6.0\projeto.pdb
+C:\Users\cesar_santos\Desktop\Pizzaria\obj\Debug\net6.0\projeto.genruntimeconfig.cache
+C:\Users\cesar_santos\Desktop\Pizzaria\obj\Debug\net6.0\ref\projeto.dll
+C:\Users\César Augusto\Desktop\Pizzaria\obj\Debug\net6.0\projeto.csproj.AssemblyReference.cache
+C:\Users\César Augusto\Desktop\Pizzaria\obj\Debug\net6.0\projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\César Augusto\Desktop\Pizzaria\obj\Debug\net6.0\projeto.AssemblyInfoInputs.cache
+C:\Users\César Augusto\Desktop\Pizzaria\obj\Debug\net6.0\projeto.AssemblyInfo.cs
+C:\Users\César Augusto\Desktop\Pizzaria\obj\Debug\net6.0\projeto.csproj.CoreCompileInputs.cache
+C:\Users\César Augusto\Desktop\Pizzaria\obj\Debug\net6.0\projeto.dll
+C:\Users\César Augusto\Desktop\Pizzaria\obj\Debug\net6.0\refint\projeto.dll
+C:\Users\César Augusto\Desktop\Pizzaria\obj\Debug\net6.0\projeto.pdb
+C:\Users\César Augusto\Desktop\Pizzaria\bin\Debug\net6.0\projeto.exe
+C:\Users\César Augusto\Desktop\Pizzaria\bin\Debug\net6.0\projeto.deps.json
+C:\Users\César Augusto\Desktop\Pizzaria\bin\Debug\net6.0\projeto.runtimeconfig.json
+C:\Users\César Augusto\Desktop\Pizzaria\bin\Debug\net6.0\projeto.dll
+C:\Users\César Augusto\Desktop\Pizzaria\bin\Debug\net6.0\projeto.pdb
+C:\Users\César Augusto\Desktop\Pizzaria\obj\Debug\net6.0\projeto.genruntimeconfig.cache
+C:\Users\César Augusto\Desktop\Pizzaria\obj\Debug\net6.0\ref\projeto.dll

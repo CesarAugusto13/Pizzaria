@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\César Augusto\\Desktop\\projeto\\projeto.csproj",
+      "projectUniqueName": "C:\\Users\\César Augusto\\Desktop\\Pizzaria\\projeto.csproj",
       "projectName": "projeto",
-      "projectPath": "C:\\Users\\César Augusto\\Desktop\\projeto\\projeto.csproj",
+      "projectPath": "C:\\Users\\César Augusto\\Desktop\\Pizzaria\\projeto.csproj",
       "packagesPath": "C:\\Users\\César Augusto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\César Augusto\\Desktop\\projeto\\obj\\",
+      "outputPath": "C:\\Users\\César Augusto\\Desktop\\Pizzaria\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\César Augusto\\AppData\\Roaming\\NuGet\\NuGet.Config"
