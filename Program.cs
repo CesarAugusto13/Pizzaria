@@ -1,10 +1,17 @@
 ﻿using System.Text;
+<<<<<<< HEAD
+=======
+
+>>>>>>> bd3cfd8ccb2c0cc827390d14b7c9dd36e7c57e65
 using Projeto.Models;
 
 var historicopizza = new List<Pizza>();
 var historicopedido = new List<Pedido>();
 
+<<<<<<< HEAD
 StatusPagamento = "Não";
+=======
+>>>>>>> bd3cfd8ccb2c0cc827390d14b7c9dd36e7c57e65
 
 int opcao = 1;
 
@@ -65,14 +72,22 @@ while (opcao != 0){
             cliente.NomeCliente = nomecliente;
             cliente.Telefone = telefone;
 
+<<<<<<< HEAD
             pedido.DadosCliente = cliente;
+=======
+            pedido.DadosCliente  = cliente;
+>>>>>>> bd3cfd8ccb2c0cc827390d14b7c9dd36e7c57e65
 
             var escolha = 0;
             do{
                 Console.WriteLine("Escolha uma pizza para adicionar: ");
                 foreach(Pizza item in historicopizza) {
                     Console.WriteLine("Nome: " + item.Nome);
+<<<<<<< HEAD
                     Console.WriteLine("Preço: " + item.Preco);
+=======
+                    Console.WriteLine("Preço" + item.Preco);
+>>>>>>> bd3cfd8ccb2c0cc827390d14b7c9dd36e7c57e65
                 }
 
 
@@ -89,6 +104,7 @@ while (opcao != 0){
                 Console.WriteLine("Deseja acrescentar mais uma pizza: 1 - SIM | 2 - NÃO");
                 escolha = int.Parse(Console.ReadLine());
             } while (escolha == 1);
+<<<<<<< HEAD
 
             historicopedido.Add(pedido);
             Console.WriteLine("Pedido Realizado");
@@ -96,6 +112,12 @@ while (opcao != 0){
             break;
         case 4:
             Console.WriteLine("Listar Pedidos!");
+=======
+            
+            historicopedido.Add(pedido);
+
+            Console.WriteLine("Pedido Realizado");
+>>>>>>> bd3cfd8ccb2c0cc827390d14b7c9dd36e7c57e65
 
             
 
@@ -109,6 +131,17 @@ while (opcao != 0){
                }
                 
          break;
+        case 4:
+            Console.WriteLine("Listar Pedido!");
+            Console.WriteLine("Listar as Pizzas!");
+
+            foreach(Pizza item in historicopizza){
+            Console.WriteLine("Nome: " + item.Nome);
+            Console.WriteLine("Ingrediente: " + item.Ingredientes);
+            Console.WriteLine("Preço: " + item.Preco);
+            }
+            break;
+        
         case 0:
             Console.WriteLine("Encerrando.");
         return; 
