@@ -103,3 +103,17 @@ C:\Users\César Augusto\Desktop\Pizzaria\bin\Debug\net6.0\projeto.dll
 C:\Users\César Augusto\Desktop\Pizzaria\bin\Debug\net6.0\projeto.pdb
 C:\Users\César Augusto\Desktop\Pizzaria\obj\Debug\net6.0\projeto.genruntimeconfig.cache
 C:\Users\César Augusto\Desktop\Pizzaria\obj\Debug\net6.0\ref\projeto.dll
+C:\Users\rodol\Downloads\Pizzaria-main\Pizzaria-main\obj\Debug\net6.0\projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodol\Downloads\Pizzaria-main\Pizzaria-main\obj\Debug\net6.0\projeto.AssemblyInfoInputs.cache
+C:\Users\rodol\Downloads\Pizzaria-main\Pizzaria-main\obj\Debug\net6.0\projeto.AssemblyInfo.cs
+C:\Users\rodol\Downloads\Pizzaria-main\Pizzaria-main\obj\Debug\net6.0\projeto.csproj.CoreCompileInputs.cache
+C:\Users\rodol\Downloads\Pizzaria-main\Pizzaria-main\obj\Debug\net6.0\projeto.dll
+C:\Users\rodol\Downloads\Pizzaria-main\Pizzaria-main\obj\Debug\net6.0\refint\projeto.dll
+C:\Users\rodol\Downloads\Pizzaria-main\Pizzaria-main\obj\Debug\net6.0\projeto.pdb
+C:\Users\rodol\Downloads\Pizzaria-main\Pizzaria-main\bin\Debug\net6.0\projeto.exe
+C:\Users\rodol\Downloads\Pizzaria-main\Pizzaria-main\bin\Debug\net6.0\projeto.deps.json
+C:\Users\rodol\Downloads\Pizzaria-main\Pizzaria-main\bin\Debug\net6.0\projeto.runtimeconfig.json
+C:\Users\rodol\Downloads\Pizzaria-main\Pizzaria-main\bin\Debug\net6.0\projeto.dll
+C:\Users\rodol\Downloads\Pizzaria-main\Pizzaria-main\bin\Debug\net6.0\projeto.pdb
+C:\Users\rodol\Downloads\Pizzaria-main\Pizzaria-main\obj\Debug\net6.0\projeto.genruntimeconfig.cache
+C:\Users\rodol\Downloads\Pizzaria-main\Pizzaria-main\obj\Debug\net6.0\ref\projeto.dll
